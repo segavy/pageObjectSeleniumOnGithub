@@ -24,7 +24,9 @@ public class StartPageTest {
     }
 
     @Test
-    //public
+    //public void Test() {
+    //some code here
+    //}
 
     @After
     public void tearDown() {
